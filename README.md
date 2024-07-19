@@ -32,8 +32,9 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![alt text](https://github.com/bris91/10.02/blob/e4558af2e48dde5fea0d6ec26f38ed86286d73d5/Screenshot%20from%202024-07-13%2015-32-05.png)
-
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_1.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_1.1.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_1.2.png)
 
 ### Задание 2
 
@@ -50,7 +51,10 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 
-![alt text](https://github.com/bris91/10.02/blob/e4558af2e48dde5fea0d6ec26f38ed86286d73d5/Screenshot%20from%202024-07-13%2017-19-38.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_2.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_2.1.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_2.2.png)
+
 
 
 ### Задание 3
@@ -61,8 +65,10 @@
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-
-
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_3.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_3.1.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_3.2.png)
+![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_all.png)
 
 
 `При необходимости прикрепитe сюда скриншоты
