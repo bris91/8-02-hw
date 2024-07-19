@@ -70,8 +70,3 @@
 ![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_3.2.png)
 ![alt text](https://github.com/bris91/8-02-hw/blob/c128e4d17775d8482d3cd502e1b69d3759745387/Task_all.png)
 
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
-![alt text](https://github.com/bris91/10.02/blob/e4558af2e48dde5fea0d6ec26f38ed86286d73d5/Screenshot%20from%202024-07-13%2017-19-38.png)
